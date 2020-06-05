@@ -1,0 +1,171 @@
+,ID,Event,Tweet,Categories,Priority
+818,390732464533938177,australiaBushfire2013,Emergency Warning - Hank St Fire (Heatherbrae) http://t.co/F1RjML8pjP #NSWRFS #nswfires,"['FirstPartyObservation', 'EmergingThreats', 'Factoid', 'Official']",Critical
+1277,392942845960925184,australiaBushfire2013,RT @NSWRFS: Emergency Warning - Gateshead fire (Lake Macquarie) http://t.co/ODCMq9yEUD Evacs centres now open #NSWRFS #nswfires,"['FirstPartyObservation', 'EmergingThreats', 'ServiceAvailable', 'News', 'NewSubEvent']",Critical
+1435,323874466063085568,bostonBombings2013,Awful scenes at the #BostonMarathon. The photo doing the rounds is pretty horrid...,"['FirstPartyObservation', 'EmergingThreats', 'MultimediaShare', 'News']",Critical
+1436,323874558325161984,bostonBombings2013,Holy shit RT @theoriginalwak: What the fuck just happened?  #bostonmarathon http://t.co/dPh7lvZoxl,"['EmergingThreats', 'MultimediaShare', 'News']",Critical
+1438,323875539788128256,bostonBombings2013,RT @alertnewengland: Boston Marathon is being shut down. Serious injuries being reported as well as possible fatalities.,"['EmergingThreats', 'News']",Critical
+1456,323880648479748096,bostonBombings2013,RT @markweaver: Live updates of the Boston Marathon bomb http://t.co/FkNJHdSHZC,"['EmergingThreats', 'MultimediaShare', 'News']",Critical
+1457,323881852215631873,bostonBombings2013,"RT @spj_tweets: Social media chaos re: #BostonMarathon. Live video + lots of photos. Exercise ethics, journalists. It looks gruesome.","['EmergingThreats', 'MultimediaShare', 'News']",Critical
+1512,323895773127393281,bostonBombings2013,RT @AP: MORE: US official: 2 more explosives found at Boston marathon: http://t.co/KBDxuuE4kQ -CC,"['EmergingThreats', 'Factoid', 'News']",Critical
+1526,323903763280711683,bostonBombings2013,RT @AP: BREAKING: Boston police commissioner: 3rd explosion at JFK Library,"['News', 'NewSubEvent']",Critical
+1554,323908842566086656,bostonBombings2013,RT @firstduephotos: BOSTON MA: #wbz news is WRONGLY reporting the JFK Library bomb was recent. It was NOT. BFD has been on scene since i ...,"['FirstPartyObservation', 'MultimediaShare', 'Hashtags', 'News', 'NewSubEvent']",Critical
+1791,325143326909136896,bostonBombings2013,RT @SeanKellyTV: State Police officially say possible link to marathon bombing and likely link to murder of MIT officer.,"['EmergingThreats', 'News']",Critical
+2142,451963283067514880,chileEarthquake2014,Chileans scramble for supplies after new quake - Yahoo News UK https://t.co/2bGk5fJf7l via @YahooNewsUK,"['ThirdPartyObservation', 'MultimediaShare', 'News', 'NewSubEvent']",Critical
+2593,964000310866923520,flSchoolShooting2018,"Moment when SWAT enters Parkland High School, dramatic moment from today's school shooting https://t.co/q3hDbzCPD5","['EmergingThreats', 'News']",Critical
+2630,963872522692321280,flSchoolShooting2018,"DEVELOPING: Police are responding to a shooting at a Florida high school that has left at least 20 injured.
+
+https://t.co/GJ5BaSl6sD","['EmergingThreats', 'MultimediaShare', 'Factoid', 'News']",Critical
+2631,963870286234968064,flSchoolShooting2018,"Margate fire rescue is preparing for a mass casualty incident, Parkland school shooting","['EmergingThreats', 'News']",Critical
+3195,963868378401247235,flSchoolShooting2018,There was another school shooting today?!?!?!? wtf mannnnnn,"['EmergingThreats', 'Sentiment']",Critical
+3343,963991947559034888,flSchoolShooting2018,"Marjory Stoneman Douglas HS Shooting Fire/Rescue Communications
+https://t.co/sBPffCmy8w","['EmergingThreats', 'MultimediaShare', 'News']",Critical
+3347,963871352502607872,flSchoolShooting2018,RT @CBSMiami: #DEVELOPING - Margate Fire Rescue preparing for mass casualty situation as @browardsheriff checks out reports of shooting atâ€¦,"['MultimediaShare', 'Factoid', 'Hashtags', 'News']",Critical
+3365,266219655549575169,guatemalaEarthquake2012,"Ooh ""@NewEarthquake: 7.5 earthquake, 49km SW of Champerico, Guatemala. Nov 7 10:35 at epicenter (6m ago, depth 33km). http://t.co/fosO1UT6""","['FirstPartyObservation', 'EmergingThreats', 'Factoid']",Critical
+3366,266219869471649793,guatemalaEarthquake2012,"RT @prensa_libre: RT @NewEarthquake: 7.5 earthquake, 49km SW of Champerico, Guatemala. Nov 7 10:35 at epicenter (6m ago, depth 33km). ht ...","['EmergingThreats', 'Factoid', 'OriginalEvent']",Critical
+3367,266220150485835776,guatemalaEarthquake2012,"""@NewEarthquake: 7.5 earthquake, 49km SW of Champerico, Guatemala. Nov 7 10:35 at epicenter. http://t.co/YSzDJzN8"" QUE GRUESO!","['EmergingThreats', 'Factoid', 'OriginalEvent']",Critical
+3368,266220314038501376,guatemalaEarthquake2012,"""@NewEarthquake: 7.5 earthquake, 49km SW of Champerico, Guatemala. Nov 7 10:35 at epicenter (6m ago, depth 33km)."" O.o","['EmergingThreats', 'Factoid', 'OriginalEvent']",Critical
+3369,266220368585449472,guatemalaEarthquake2012,RT @PacificNPS: 7.5 Earthquake just struck off Pacific Coast of Guatemala: http://t.co/b0iuoPAz,"['Factoid', 'Official']",Critical
+3370,266221849166376961,guatemalaEarthquake2012,"RT @NewEarthquake: 7.5 earthquake, 49km SW of Champerico, Guatemala. Nov 7 10:35 at epicenter (6m ago, depth 33km). http://t.co/brZ8J9F9","['Factoid', 'Official']",Critical
+3371,266222126007197696,guatemalaEarthquake2012,"Strong tremor felt in Guatemala City, El Salvador: GUATEMALA CITY (Reuters) - A strong earthquake shook building... http://t.co/UMauuZrS","['MultimediaShare', 'News']",Critical
+3376,266223501705355266,guatemalaEarthquake2012,"RT @NewEarthquake: Revised (7.5 -&gt; 7.4): 7.4 earthquake, 24km S of Champerico, Guatemala. Nov 7 10:35 at epicenter (20m ago, depth 42 ...","['MultimediaShare', 'Factoid', 'Official', 'News']",Critical
+3554,205105508925972481,italyEarthquakes2012,RT @Peepsqueak: Italy declares state of emergency in quake zone - Khaleej Times http://t.co/EElIZSBz RT @from_italy,"['ThirdPartyObservation', 'News']",Critical
+3575,207468177138003968,italyEarthquakes2012,Latest update:  #quake #Italy  15 dead   5000 people evacuated ...,"['ThirdPartyObservation', 'Factoid', 'News']",Critical
+3602,207898768610312192,italyEarthquakes2012,VIDEO - Italy quake: Rescue operation goes on http://t.co/MWbEIwri,"['ThirdPartyObservation', 'MultimediaShare', 'News']",Critical
+3621,72864403120324608,joplinTornado2011,RT @achohelelwhy: RT Update - Has Dementia! pls find him #Missing #Joplin Charles Writer (http://on.fb.me/kHaGEY) patient at #Greenbrier ...,"['SearchAndRescue', 'ThirdPartyObservation', 'Hashtags', 'NewSubEvent']",Critical
+3626,72678400833228800,joplinTornado2011,RT @fishfire: FEMA  now enroute to #JOPLIN with IMAT team with full support team at the ready.  #JOPLIN,"['ServiceAvailable', 'Official', 'Hashtags', 'News']",Critical
+3630,73127029050060800,joplinTornado2011,"RT @TWCBreaking: LARGE, multivortex #tornado now near Binger, OK or 6 miles south of Hinton.  TAKE COVER NOW below ground!  http://wxch. ...","['MovePeople', 'FirstPartyObservation', 'EmergingThreats', 'MultimediaShare', 'Official', 'Advice']",Critical
+3644,73214313971712000,joplinTornado2011,RT @WxChrisB: People in SW Hunt and NE Kaufman need to take tornado precautions at this time. #txwx,"['FirstPartyObservation', 'EmergingThreats', 'Hashtags', 'Advice', 'News']",Critical
+3651,74209988796616704,joplinTornado2011,"Missing List in Joplin Tornado Drops to 156: Ninety of the people unaccounted for after the Joplin, Mo., tornado... http://bit.ly/jH9dl1","['MultimediaShare', 'News', 'NewSubEvent']",Critical
+3660,368659239272579073,manilaFloods2013,"RT @dost_pagasa: WEATHER BULLETIN No. 2
+Tropical Cyclone Alert: Tropical Depression â€œ#MaringPHâ€�  
+Issued at 11:00AM 17 August... http://t.câ€¦","['Weather', 'EmergingThreats', 'Factoid', 'NewSubEvent']",Critical
+3670,369118968566394880,manilaFloods2013,RT @DepEd_PH: WEATHER BULLETIN No. 5 Tropical Cyclone Alert: Tropical Storm â€œ#MaringPHâ€� - 11:15PM 18 August 2013 http://t.co/wgU52955HJ  viâ€¦,"['Weather', 'EmergingThreats', 'Official']",Critical
+3671,369121183150505985,manilaFloods2013,Live @DZMMTeleradyo: Commuters are now stranded near a mall beside Manila City Hall due to rising floods #RescuePH,"['ThirdPartyObservation', 'EmergingThreats', 'Factoid']",Critical
+3699,369291111186980864,manilaFloods2013,"RT @dude_funk: #rescuePH Dela Paz, BiÃ±an(?) Laguna. Newly kidney operated Tita currently on rooftop with other family due to flood. Please â€¦","['FirstPartyObservation', 'EmergingThreats', 'Official']",Critical
+3719,369350150210088960,manilaFloods2013,@ChairmanGordon @philredcross sir until now no rescue at the place i tweeted earlier at mercedes homes3 biÃ±an laguna. Thank you! #RescuePH,"['SearchAndRescue', 'FirstPartyObservation', 'NewSubEvent']",Critical
+3787,369632254902816768,manilaFloods2013,RT @jascurtissmith: â€œ@eldzsmejia: GUYS WE NEED HELP! Rescue! Banuyo st. San Antonio village Makati!!!â€� #RescuePH,"['SearchAndRescue', 'EmergingThreats']",Critical
+3871,369715109175623680,manilaFloods2013,RT @rapplerdotcom: BREAKING: Alert level 4 raised for Marikina River http://t.co/54PXJJaFXR Alarm for forced evacuation sounded. #MaringPH,"['EmergingThreats', 'MultimediaShare', 'News']",Critical
+3881,369722608612167680,manilaFloods2013,"ALERT LEVEL 4, Marikina River at 18meters. Marikina residents near the river, you guys need to evacuate NOW. #maringPH #floodPH","['MovePeople', 'FirstPartyObservation', 'EmergingThreats']",Critical
+3981,370029879103741952,manilaFloods2013,RT @LPUCavite: An appeal for help: https://t.co/UfBfa1k7wc Thank you #Lyceans #reliefPH,"['SearchAndRescue', 'FirstPartyObservation']",Critical
+4028,370330895921577984,manilaFloods2013,"RT @dost_pagasa: Yellow Rainfall Advisory No. 33
+
+Weather System: Southwest Monsoon (#Habagat)
+Target Areas: #MetroManila... http://t.co/dQâ€¦","['Weather', 'Official']",Critical
+4130,591906128654565376,nepalEarthquake2015,"""@NewEarthquake: 5.0 earthquake, 31km NNW of Nagarkot, Nepal. Apr 25 15:15 at epicenter (21m ago, depth 10km). http://t.co/MKIsWkYNvM""","['Factoid', 'NewSubEvent']",Critical
+4381,591919961754447872,nepalEarthquake2015,Can't believe a volcano in Nepal erupted,['NewSubEvent'],Critical
+4402,591919786935857152,nepalEarthquake2015,@MDouglasBurnett 8.1 Mag #Quake Hits South-Central #Tibet &amp; #Nepal #news #trueTibet http://t.co/USBajlS9kQ,['NewSubEvent'],Critical
+4659,591974839839133696,nepalEarthquake2015,#eathquake â€“ Indian Air Force is evacuating 250 persons from #Kathmandu today. Please ask your relatives to get inâ€¦ http://t.co/X9w6b8bclp,['MovePeople'],Critical
+4727,592068281076318208,nepalEarthquake2015,The building on right is now leaning precariously on its neighbour. Impending disaster. #Thamer #Kathmandu #Nepal http://t.co/tQk957cWuY,"['EmergingThreats', 'MultimediaShare']",Critical
+4823,592073527131529217,nepalEarthquake2015,Developing: Nepal Quake Triggers Mount Everest Avalanche http://t.co/Et9NAYcsg7,['NewSubEvent'],Critical
+4919,592075922871865345,nepalEarthquake2015,"ArizonaNewsnet: RT SecureUSATalk: #NepalEarthquake 12 Arizona doctors trapped in a hut near Everest Base Camp - any info on this, please RTâ€¦","['SearchAndRescue', 'InformationWanted']",Critical
+5005,592084430560169984,nepalEarthquake2015,'Another crisis will hit Nepal capital todayâ€™ http://t.co/FPGdRNBRBe,"['EmergingThreats', 'Official']",Critical
+7385,592815327039397888,nepalEarthquake2015,27 yr old Hong Kong female med student missing since Saturday http://t.co/2qIE75BJSk #nepal #kathmandu,"['InformationWanted', 'Hashtags', 'News']",Critical
+7442,592820014421516289,nepalEarthquake2015,UPDATE: 26y/o QLD yoga teacher Nadwa Natalie Alasfar is still missing after the #NepalQuake. #9News http://t.co/sidqeJqOzm,"['InformationWanted', 'MultimediaShare', 'Hashtags', 'News']",Critical
+7520,592826352186826753,nepalEarthquake2015,"Georgia Man Missing in Nepal, Man Stabbed to Death in East Cobb, Gunmen Shoot at Rapper's Tour Bus http://t.co/GZbkF7irF7","['InformationWanted', 'FirstPartyObservation', 'MultimediaShare', 'News']",Critical
+8055,592887632058810368,nepalEarthquake2015,I wonder when humanity decided to leave from humans... https://t.co/88FsCNFEh0,"['ThirdPartyObservation', 'Hashtags', 'News']",Critical
+8400,665284063901696002,parisAttacks2015,"RT @michaelh992: PT: According to Police Union, 2 suicide bomber in front of the Stade de France + one near the Stadium #Paris","['ThirdPartyObservation', 'EmergingThreats', 'Factoid', 'Official', 'Hashtags']",Critical
+8404,665290297820057600,parisAttacks2015,Paris shootings and explosions near Stade de France kill 18 - BBC News https://t.co/zC6xxUKeSq,"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'News', 'NewSubEvent']",Critical
+8412,665284743156637696,parisAttacks2015,"RT @JulianRoepcke: #BREAKINGNEWS 
+Terrorists take hostages in #Paris #Bataclan concert hall.
+(file picture)
+#ParisAttacks https://t.co/Jd3Bâ€¦","['News', 'NewSubEvent']",Critical
+8414,665284828405891072,parisAttacks2015,"RT @AgnesCPoirier: 3 separate attacks in #Paris now. On going. Hostages at Bataclan theatre, shootout rue de Charonne, 3 explosions near Stâ€¦","['Hashtags', 'News', 'NewSubEvent']",Critical
+8416,665311637591621632,parisAttacks2015,RT @sunriseon7: Paris Attack: 100 hostages inside Bataclan theatre. @benlewismedia reports people being shot one-by-one. #Sun7 https://t.coâ€¦,"['ThirdPartyObservation', 'MultimediaShare', 'News', 'NewSubEvent']",Critical
+8419,665285769075007488,parisAttacks2015,"RT @Paulhitsheet: hostages were taken at the Bataclan theater in Paris. According to the theater's website, it hosted an Eagles of Death Meâ€¦","['ThirdPartyObservation', 'NewSubEvent']",Critical
+8420,665288776374185984,parisAttacks2015,"RT @HuffPostCanada: PARIS ATTACKS
+- Multiple incidents reported
+- At least 26 dead
+- Hostage situation reported at Bataclan theatre
+https:/â€¦","['MultimediaShare', 'Hashtags', 'News', 'NewSubEvent']",Critical
+8428,665292836493914112,parisAttacks2015,"RT @Sports42Fanatic: Paris Bomb Explosions Outside Stade de France Heard During France-Germany Match: 
+Paris is under attack. Frida... httpâ€¦","['FirstPartyObservation', 'MultimediaShare', 'NewSubEvent']",Critical
+8435,665284823833964544,parisAttacks2015,"RT @KuperSimon: Multiple attacks in Paris tonight.First Petit Cambodge restaurant, then Bataclan club, + explosions outside Stade de Franceâ€¦","['Hashtags', 'News', 'NewSubEvent']",Critical
+8449,665284820256366592,parisAttacks2015,"RT @Conflicts: #ParisAttack Update:
+
+- Shooting at Restaurant
+- Multiple explosions at stadium 
+- Hostages taken at Concert Hall
+- At leastâ€¦","['Hashtags', 'News', 'NewSubEvent']",Critical
+8450,665292682944782340,parisAttacks2015,RT @RT_com: URGENT: Two or three gunmen attacked police in front of #Bataclan theatre - #Paris police https://t.co/zgDNuxWusS https://t.co/â€¦,"['FirstPartyObservation', 'News', 'NewSubEvent']",Critical
+8451,665281146603888640,parisAttacks2015,RT @JFXM: BREAKING: At least 2 explosions heard from #Paris' Stade de France stadium during France-Germany football match. (@AP),"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'News']",Critical
+8458,665283117662490624,parisAttacks2015,"RT @MichaelMathes: More #BREAKING, @AFP: Hostages taken at Paris's Bataclan concert hall: police","['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'News']",Critical
+8484,665289883683069952,parisAttacks2015,"Update from the #11eme: cell service seems to be cut off, ambulances have been driving by. Police have blocked off surrounding roads. #Paris","['FirstPartyObservation', 'Hashtags', 'NewSubEvent']",Critical
+8491,665312984390983680,parisAttacks2015,RT @BostonGlobe: AP reports automatic gunfire heard from outside Paris concert hall where attackers holding hostage. https://t.co/dLk5HRYHtâ€¦,"['ThirdPartyObservation', 'MultimediaShare', 'News', 'NewSubEvent']",Critical
+8500,665303721941725185,parisAttacks2015,"RT @Jackie14News: CAUGHT ON VIDEO: #PARIS Emergency vehicles pass, then  shooting / explosion heard.  
+ https://t.co/pvYnHL58lx","['ThirdPartyObservation', 'MultimediaShare', 'NewSubEvent']",Critical
+8503,665311279901376512,parisAttacks2015,RT @SkyNewsBreak: Update - Reuters witness says five explosions heard near #Bataclan concert hall in #Paris,"['ThirdPartyObservation', 'News', 'NewSubEvent']",Critical
+8511,665282109511086080,parisAttacks2015,RT @gmanews: 2 explosions heard from Paris stadium during France-Germany football match. | via @AP,"['ThirdPartyObservation', 'EmergingThreats', 'News']",Critical
+8528,665289739889745921,parisAttacks2015,"RT @achrisafis: Police with automatic weapons crouched behind cars near #paris cirque d'hiver, roads blocked, bars empty","['FirstPartyObservation', 'Hashtags', 'NewSubEvent']",Critical
+8543,665313800233422848,parisAttacks2015,RT @floresaquino: Watching LIVE on #Periscope: @moctarkane: #ParisShooting : the neibourhood is blocked by the Police #Periscope now. httpsâ€¦,"['FirstPartyObservation', 'MultimediaShare', 'Factoid', 'NewSubEvent']",Critical
+8575,665278715530735622,parisAttacks2015,Machine gun fire heard in central Paris as police flood scene not far from Charlie Hebdo shootings https://t.co/DKzXcCNfSD,"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'News']",Critical
+8715,665285661612572672,parisAttacks2015,"RT @LibertyUSA1776: 3 locations confirmed in simultaneous attacks in Paris.. 
+Confirmed... hostages taken..shootout in restaurant..2 explosâ€¦","['Hashtags', 'News', 'NewSubEvent']",Critical
+8878,665313687184379905,parisAttacks2015,@iiyanx7: Police have confirmed to have stormed the Bataclan where the hostages are being held. May God save them all 😔 #ParisAttacks,"['ThirdPartyObservation', 'Factoid', 'Hashtags', 'NewSubEvent']",Critical
+8966,665280357240053760,parisAttacks2015,"#BREAKING: French police report explosion in bar near Paris stadium, shootout in Paris restaurant https://t.co/qwIVD3BUki","['ThirdPartyObservation', 'Hashtags', 'News']",Critical
+9115,665312894733721600,parisAttacks2015,"BBCBreaking : Explosions &amp; gunfire heard at Bataclan concert hall, Paris where  hostages reportedly held â€¦ https://t.co/aZwgqNn9Qs","['ThirdPartyObservation', 'News', 'NewSubEvent']",Critical
+9283,665297792349241344,parisAttacks2015,RT @ProtectRPolice: Learning of another shooting in a shopping mall #Paris,"['ThirdPartyObservation', 'NewSubEvent']",Critical
+9318,665285411862913028,parisAttacks2015,RT @TomCrann: eyewitenss account from BBC on now on reported Paris shootings/explosions. Situation developing. We'll bring you the latest.,"['FirstPartyObservation', 'News', 'NewSubEvent']",Critical
+9371,665296644913541122,parisAttacks2015,Multiple Attacks Roil Paris; President Hollande Is Evacuated From Stadium: Shootings and explosions erupted in... https://t.co/TEXZfQFrwZ,"['ThirdPartyObservation', 'News', 'NewSubEvent']",Critical
+9439,665290459359653888,parisAttacks2015,"RT @CarrTamicbs11: #BREAKING: Vine appears to capture the sound of an explosion in Paris during France-Germany soccer match.
+LISTEN:
+https:â€¦","['ThirdPartyObservation', 'MultimediaShare', 'Hashtags', 'NewSubEvent']",Critical
+9440,665373220522999808,parisAttacks2015,Investigation to see if any Paris attack accomplices still loose:Â prosecutor: Paris (AFP) - Paris pros... https://t.co/mQ257vJjFe (Yahoo),"['ThirdPartyObservation', 'EmergingThreats', 'News']",Critical
+9523,665287752892706816,parisAttacks2015,BBCBreaking : Hostage-taking under way in Paris at the Bataclan arts centre - French media https://t.co/6fqlLnHeCVâ€¦ https://t.co/45OthEs8Mw,"['MultimediaShare', 'Hashtags', 'News', 'NewSubEvent']",Critical
+9642,665283751757369345,parisAttacks2015,RT @nlitenmebabe: #BreakingNews Reports of civilians been taken as hostages at #Bataclan concert hall in the street in #Paris #France httpsâ€¦,"['EmergingThreats', 'Factoid', 'Hashtags', 'News']",Critical
+9657,665310549710737409,parisAttacks2015,"BREAKING!! 5 Explosions heard near Bataclan theatre
+
+#fusillade #Paris #franceshooting #WakeUpAmerica
+
+WATCH LIVE: 
+https://t.co/vuavRpR5Bh","['ThirdPartyObservation', 'EmergingThreats', 'News']",Critical
+9786,665311091820335104,parisAttacks2015,"@twitter #ParisAttacks More explosions being heard at concert hall, attacks still underway! Hostages being systematically shot!","['FirstPartyObservation', 'Hashtags', 'NewSubEvent']",Critical
+9822,665288031436312576,parisAttacks2015,"RT @EmmaLBriant: Horrific events in #Paris tonight 18 dead, Hollande evacuated, shootings, kidnappings and explosions: https://t.co/KYiatH0â€¦","['Hashtags', 'News', 'NewSubEvent']",Critical
+9831,665311688753745920,parisAttacks2015,Police storming #Bataclan. Please be safe. 😔 #Paris,"['ThirdPartyObservation', 'NewSubEvent']",Critical
+9833,665291764576600064,parisAttacks2015,Terrifying #prayforparis  https://t.co/br7If4DYOW,"['FirstPartyObservation', 'MultimediaShare', 'Factoid', 'Hashtags', 'NewSubEvent']",Critical
+9950,665285884560998401,parisAttacks2015,#news French president has left soccer stadium after reports of explosion in central Paris. https://t.co/WoTLRRaSAa,"['ThirdPartyObservation', 'News', 'NewSubEvent']",Critical
+10100,665302767821578240,parisAttacks2015,"#BreakingNews: French President Hollande declares state of emergency, closes French borders after #Paris attack https://t.co/ke1yeBSmKu","['FirstPartyObservation', 'News', 'NewSubEvent']",Critical
+10203,665319821454643200,parisAttacks2015,https://t.co/AvlKgcMgo8 NEWS CNN Anchor: Paris Concert Hostages Being â€˜Slaughtered One By Oneâ€™ https://t.co/MS2KCHNw9D #TCOT #THEMBNG,"['ThirdPartyObservation', 'News', 'NewSubEvent']",Critical
+10457,665284742686773248,parisAttacks2015,French police report shootout and explosion in Paris: PARIS (AP) â€” Police officials in France on Friday report... https://t.co/Q8x6eMx8S6,"['Hashtags', 'News', 'NewSubEvent']",Critical
+10491,232718130487648257,philipinnesFloods2012,"A family needs to be rescued at 36 Road 3, Dona Petra, Concepcion Uno, Marikina City. They're stuck at the 2nd floor. Thanks #rescuePH","['SearchAndRescue', 'FirstPartyObservation', 'EmergingThreats']",Critical
+10497,232726884021055489,philipinnesFloods2012,"RT @lightfusion: Please send rescue team to 14P Diamond St. Cypress Village, Masambong QC. Family trapped in 2nd flr. Thanks! #RescuePH","['SearchAndRescue', 'ThirdPartyObservation', 'EmergingThreats']",Critical
+10969,294763987239854080,queenslandFloods2013,BANANA SHIRE - CALLIDE CREEK - Get to higher ground now http://t.co/MESU3ZVy #bigwet #qldfloods #qld,"['EmergingThreats', 'Hashtags', 'Advice', 'News']",Critical
+10970,294765144850984960,queenslandFloods2013,RT @tegangeorge: â€œ@cycloneupdate: Emergency flood alert for Callide Crk - residents to move to higher ground #bigwet #qldâ€�,"['ThirdPartyObservation', 'EmergingThreats', 'Hashtags', 'News']",Critical
+10974,294888574833270784,queenslandFloods2013,"Record floods in #Queensland #Australia #bigwet â€œ@QldFire: A flooding EMERGENCY ALERT has been issued for Gladstone. 
+http://t.co/LaADffQOâ€�","['EmergingThreats', 'Hashtags', 'News']",Critical
+10983,294998411080507392,queenslandFloods2013,"FLOOD WARNING FOR THE CONNORS, ISAAC, DON, DAWSON AND FITZROY RIVERS #bigwet http://t.co/ywY0omEf
+Issued at 12:29... http://t.co/byTXn2uu","['EmergingThreats', 'News']",Critical
+10984,294999522558504960,queenslandFloods2013,Reports of Road Traffic Crash â–¶ Possible Entrapment â–¶ Canando St &amp; Daguilar Hwy Woodford http://t.co/tCt8ViF8 #bigwet,"['MultimediaShare', 'News', 'NewSubEvent']",Critical
+10985,295000478855593985,queenslandFloods2013,Reports of Road Traffic Crash â–¶ Nr Keefton Rd Bruce Hwy Gympie http://t.co/M7tmbxka #bigwet http://t.co/AZkjE1Zs,"['MultimediaShare', 'Hashtags', 'News']",Critical
+10997,295058347676274688,queenslandFloods2013,RT @QPSmedia: Residents in the Bundaberg area need to REMAIN INSIDE. Tornado activity can be unpredictable &amp; destructive. #bigwet #t ...,"['EmergingThreats', 'Hashtags', 'News']",Critical
+11005,295084197155074048,queenslandFloods2013,RT @cycloneupdate: 6:20PM EST Police: REPORTS OF ANOTHER TORNADO AT BURNETT HEADS. RESIDENTS REMAIN INSIDE. #bigwet #tornado,"['EmergingThreats', 'Official', 'Hashtags', 'Advice', 'News']",Critical
+11016,295163796685717504,queenslandFloods2013,RT @QPSmedia: EMERGENCY ALERT - Biloela. People in low-lying areas of town should move to higher ground or the Civic Centre. #bigwet,"['EmergingThreats', 'Official', 'Hashtags', 'News']",Critical
+11018,295247082955083777,queenslandFloods2013,RT @SEQincidents: Report of Fire Services Incident Swiftwater Vehicle rollover in floodwater Gympie Woolooga Road Widgee #bigwet,"['Official', 'Hashtags', 'News', 'NewSubEvent']",Critical
+11040,295359003763040256,queenslandFloods2013,"RT @QPSmedia: Bundaberg North residents please evacuate immediately to Civic Centre, N Bundaberg SS or friends &amp; relatives #bigwet","['EmergingThreats', 'Official', 'Hashtags', 'Advice', 'News']",Critical
+11041,295359125414637568,queenslandFloods2013,RT @QPSmedia: POLICE CALLING FOR IMMEDIATE EVACUATION OF BUNDABERG NORTH. #bigwet,"['FirstPartyObservation', 'EmergingThreats', 'Official', 'Advice', 'News']",Critical
+11078,295426657886552064,queenslandFloods2013,RT @QPSmedia Major flooding occurring in Lockyer Valley. Evacuations underway #bigwet,"['ThirdPartyObservation', 'Hashtags', 'News', 'NewSubEvent']",Critical
+11090,295434299916820480,queenslandFloods2013,RT @QPSmedia: EMERGENCY ALERT: Laidley Creek is expected to peak at 5.30pm with major flooding to 2011 levels. #bigwet,"['Factoid', 'Official', 'Hashtags', 'News']",Critical
+11522,296378274177748992,queenslandFloods2013,"Gayndah residents must boil drinking water, use water for drinking, hygiene only: http://t.co/JG0GmjIB #qldfloods #bigwet","['Hashtags', 'News', 'NewSubEvent']",Critical
+11661,541142684061024256,typhoonHagupit2014,Evacuate all affected areas that is in path with the Super Typhoon Hagupit or Ruby in which it is under Signal no. 3. Please Save your Life.,"['MovePeople', 'Advice']",Critical
+12069,541298789814767616,typhoonHagupit2014,Uh oh! the wind gust is starting to change. #RubyPH http://t.co/x7ufDmMRYi,"['ThirdPartyObservation', 'Weather']",Critical
+12107,541324260946739201,typhoonHagupit2014,Typhoon Hagupit hit Eastern Samar. ACTalliance local partners see  transitionsal shelters blown away. Need to assess damage and respond asap,"['GoodsServices', 'ThirdPartyObservation', 'NewSubEvent']",Critical
+12587,541407936489467904,typhoonHagupit2014,Albay province being warned of possible flash floods and landslides in coming hours #TyphoonHagupit,"['ThirdPartyObservation', 'Weather', 'EmergingThreats', 'News']",Critical
+12597,541419520376995841,typhoonHagupit2014,"Ruby downs power lines, forces evacuation of 716,639â€”NDRRMC 
+MANILA, Philippines-Typhoon ... http://t.co/GNvHReyRme #news #filipino","['ThirdPartyObservation', 'Factoid', 'News', 'NewSubEvent']",Critical
+12711,541425688994390016,typhoonHagupit2014,#CebuMustBeReady #Cebu #RubyPH #MandaueCity via Pio Mandaue - Public Advisory: Mandaue City Mayor Jonas C. Cortes... http://t.co/aVHIJUCWDt,"['EmergingThreats', 'Official', 'Hashtags', 'Advice']",Critical
+12712,541427601659928576,typhoonHagupit2014,"#Update #Cebu #RubyPH #Catmon as of 10:30 am :
+""Water is now overflowing in Naghalin River in Catmon, strong... http://t.co/G6pbAD8Msa","['Weather', 'EmergingThreats', 'Factoid', 'Official']",Critical
+12787,541433822395371520,typhoonHagupit2014,"#RubyPH #FloodPH Pinamarbuhan, Mobo, #Masbate; bridge not passable/landslide areas-nega; stranded vehicles-7/passengers ~@PRO5React","['SearchAndRescue', 'FirstPartyObservation', 'Factoid', 'NewSubEvent']",Critical
+12879,541470367097700353,typhoonHagupit2014,"#Hagupit #Legazpi bracing for heavy rain, floods and big waves - please retweet these tips","['ThirdPartyObservation', 'Weather', 'EmergingThreats', 'Factoid', 'Hashtags']",Critical
+13554,541530975092498434,typhoonHagupit2014,"SEVERE WEATHER BULLETIN FIFTEEN
+FOR: TYPHOON â€œRUBYâ€� (HAGUPIT)
+TROPICAL CYCLONE: WARNING
+
+ISSUED AT 5:00 PM, 07... http://t.co/de3SBmAeiB","['ThirdPartyObservation', 'Weather', 'MultimediaShare', 'Factoid', 'Official']",Critical
+13581,541533467277008896,typhoonHagupit2014,"SEVERE WEATHER BULLETIN FIFTEEN FOR: TYPHOON â€œRUBYâ€� (HAGUPIT) TROPICAL CYCLONE: WARNING ISSUED AT 5:00 PM, 07... http://t.co/k68wn1Zsxg ...","['ThirdPartyObservation', 'Weather', 'MultimediaShare', 'Factoid']",Critical
+13625,541534655678541824,typhoonHagupit2014,"SEVERE WEATHER BULLETIN FIFTEEN
+FOR: TYPHOON â€œRUBYâ€� (HAGUPIT)
+TROPICAL CYCLONE: WARNING
+ISSUED AT 5:00 PM, 07... http://t.co/EU3zJQC2Qe","['ThirdPartyObservation', 'Weather', 'MultimediaShare', 'Factoid']",Critical
+15382,398391037145530368,typhoonYolanda2013,RT @jolorevilla: All classes pre-school to HS public and private will be suspended tom Nov8 in the Province of Cavite due to super typhoon â€¦,"['News', 'NewSubEvent']",Critical
+15520,399575336616493056,typhoonYolanda2013,"RT @philredcross: Pls RT: If you are looking for a family or friend, use #TracingPH or fill up http://t.co/SB5mTqW2qS http://t.co/yoZGxGGwJw","['ServiceAvailable', 'Official', 'Hashtags', 'News']",Critical
+15787,402085996696973312,typhoonYolanda2013,"After Typhoon Haiyan, violence against young women a lingering concern... http://t.co/eot9hcuGLm","['EmergingThreats', 'MultimediaShare', 'News', 'NewSubEvent']",Critical
