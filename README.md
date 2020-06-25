@@ -20,3 +20,7 @@ when attempting to classify critical tweets. We aim to make progress in this ave
 4. Intergrate the optimisation method with GADGET SVMs to study performance.
 5. Finally, explore ways to integrate deep learning method (LSTM RNN) in a distributed setting and evaluate performance.
 
+## Progress So Far...
+
+SVM models perform exceedigly well when TFIDF features are used. This is because SVMs are known to perform well when the feature space is large. Neural networks do not train on TFIDF very well. This is because TFIDF are a sparse form of representation with many empty entries. We have not attempted to reduce the feature dimensionalty using PCA, t-SNE or 
+manifold learning but this is something we could look into in thw future. As far as embeddings are concerned, keras's built-in embedding layer performs well when couple with an LSTM RNN. However, Word2Vec embeddings work well when trained using 1D convolutional layers. We are yet to explore GLoVe embeddings.
