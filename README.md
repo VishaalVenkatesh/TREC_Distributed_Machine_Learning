@@ -23,3 +23,5 @@ when attempting to classify critical tweets. We aim to make progress in this ave
 
 SVM models perform exceedigly well when TFIDF features are used. This is because SVMs are known to perform well when the feature space is large. Neural networks do not train on TFIDF very well. This is because TFIDF are a sparse form of representation with many empty entries. We have not attempted to reduce the feature dimensionalty using PCA, t-SNE or 
 manifold learning but this is something we could look into in the future. As far as embeddings are concerned, keras's built-in embedding layer performs well when couple with an LSTM RNN. However, Word2Vec embeddings only work well when trained using 1D convolutional layers. We are yet to explore GLoVe embeddings. 
+
+We have also briefly explored state-of-the-art, attention-based BERT. Specifically, recent research in the field has resulted in tailored BERT unique to crisis scenario. This is known as **Crisis BERT**. This is accompanied by a transformer based embedding technique for crisis scenario called **Crisis2Vec**. This is a promising avenue we will continue to explore in the near future. 
